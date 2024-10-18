@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\projekt\bin\Debug\net8.0\projekt2.exe
+C:\Users\Admin\Desktop\projekt\bin\Debug\net8.0\projekt2.deps.json
+C:\Users\Admin\Desktop\projekt\bin\Debug\net8.0\projekt2.runtimeconfig.json
+C:\Users\Admin\Desktop\projekt\bin\Debug\net8.0\projekt2.dll
+C:\Users\Admin\Desktop\projekt\bin\Debug\net8.0\projekt2.pdb
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\projekt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\projekt2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\projekt2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\projekt2.dll
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\refint\projekt2.dll
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\projekt2.pdb
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\projekt2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\projekt\obj\Debug\net8.0\ref\projekt2.dll
